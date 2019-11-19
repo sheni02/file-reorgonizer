@@ -1,4 +1,5 @@
 HELP.md
+result.txt
 target/
 logs/
 !.mvn/wrapper/maven-wrapper.jar
@@ -15,7 +16,7 @@ logs/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.ideagit rm -r --cache
 *.iws
 *.iml
 *.ipr

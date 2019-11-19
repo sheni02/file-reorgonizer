@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c0d7e80-0cf1-452e-a3fe-3688b2a9584b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TpUxXrfEbuNSokZj42y3fq2cQ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/fr/adlere/kata/rte/reorganizer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.adlere.kata.rte.reorganizer.io" />
+      <recent name="fr.adlere.kata.rte.reorganizer.transformer" />
+      <recent name="fr.adlere.kata.rte.reorgnizer.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sheni\Documents\workspaces\katas\file-reorgonizer\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sheni\Documents\workspaces\katas\file-reorgonizer\src\test" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IOFileManagerTest.writeResult_WhenInputFileExist_WriteAREsultFileWithOrganizedNumbers">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.adlere.kata.rte.reorganizer.App" />
+      <module name="file-reorgonizer" />
+      <option name="PROGRAM_PARAMETERS" value="C://Users/sheni/Desktop/rteOutput/test.txt ./result.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.adlere.kata.rte.reorganizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in file-reorgonizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-reorgonizer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-reorgonizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.adlere.kata.rte.reorganizer.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.adlere.kata.rte.reorganizer.io" />
+      <option name="MAIN_CLASS_NAME" value="fr.adlere.kata.rte.reorganizer.io.IOFileManagerTest" />
+      <option name="METHOD_NAME" value="readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObjectWithOrganizedNumbersInTheArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-reorgonizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.adlere.kata.rte.reorganizer.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.adlere.kata.rte.reorganizer.io" />
+      <option name="MAIN_CLASS_NAME" value="fr.adlere.kata.rte.reorganizer.io.IOFileManagerTest" />
+      <option name="METHOD_NAME" value="readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObjectWithOrganizedNumbersInTheArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOFileManagerTest.writeResult_WhenInputFileExist_WriteAREsultFileWithOrganizedNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-reorgonizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.adlere.kata.rte.reorganizer.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.adlere.kata.rte.reorganizer.io" />
+      <option name="MAIN_CLASS_NAME" value="fr.adlere.kata.rte.reorganizer.io.IOFileManagerTest" />
+      <option name="METHOD_NAME" value="writeResult_WhenInputFileExist_WriteAREsultFileWithOrganizedNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.All in file-reorgonizer" />
+      <item itemvalue="JUnit.IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObject" />
+      <item itemvalue="JUnit.IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObjectWithOrganizedNumbersInTheArray" />
+      <item itemvalue="JUnit.IOFileManagerTest.writeResult_WhenInputFileExist_WriteAREsultFileWithOrganizedNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IOFileManagerTest.writeResult_WhenInputFileExist_WriteAREsultFileWithOrganizedNumbers" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObjectWithOrganizedNumbersInTheArray" />
+        <item itemvalue="JUnit.IOFileManagerTest.readAndReorganize_WhenInputFileExist_ReturnFileReorganizerObject" />
+        <item itemvalue="JUnit.All in file-reorgonizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0d7e80-0cf1-452e-a3fe-3688b2a9584b" name="Default Changelist" comment="" />
+      <created>1574156777242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574156777242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="number.charAt(number.length() - 1)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
