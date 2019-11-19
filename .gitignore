@@ -16,7 +16,7 @@ logs/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.ideagit rm -r --cache
+.idea
 *.iws
 *.iml
 *.ipr
